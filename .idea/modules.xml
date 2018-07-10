@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feginservice/feginservice.iml" filepath="$PROJECT_DIR$/feginservice/feginservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadbalanceribbon/loadbalanceribbon.iml" filepath="$PROJECT_DIR$/loadbalanceribbon/loadbalanceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyb.iml" filepath="$PROJECT_DIR$/lyb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nameservice/nameservice.iml" filepath="$PROJECT_DIR$/nameservice/nameservice.iml" />
+    </modules>
+  </component>
+</project>
