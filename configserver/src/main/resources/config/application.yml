@@ -1,0 +1,21 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.8.50.11:8001/eureka/
+
+server:
+    port: 5000
+
+spring:
+  application:
+    name: config-server
+
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/wenwuxianren/SpringcloudConfig
+          search-paths: respo
+
+

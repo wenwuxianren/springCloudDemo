@@ -4,7 +4,7 @@ eureka:
       defaultZone: http://10.8.50.11:8001/eureka/
 
 server:
-  port: 9003
+  port: 9002
 spring:
   application:
     name: nameService
